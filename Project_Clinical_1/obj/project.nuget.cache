@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7PPeI4CDF5FlGTOzUlP6gFcxdwbxD5E7jAS2R197QdNd3+be5aXHMVuBwQ5/97Qh8ZaLCB+zvdSkRtF+4JjTA==",
+  "success": true,
+  "projectFilePath": "D:\\NILE UNIVERSTY\\COURSES\\GitHub\\Final_Glamourous_Clinic\\Project_Clinical_1\\Project_Clinical_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammed\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\ironocr\\2022.12.10830\\ironocr.2022.12.10830.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\ironsoftware.system.drawing\\2022.11.10457\\ironsoftware.system.drawing.2022.11.10457.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\sixlabors.imagesharp\\2.1.3\\sixlabors.imagesharp.2.1.3.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\tesseract.net.sdk\\4.5.411\\tesseract.net.sdk.4.5.411.nupkg.sha512"
+  ],
+  "logs": []
+}
